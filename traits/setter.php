@@ -1,6 +1,6 @@
 <?php
 
-namespace shgysk8zer0\PaymentAPI\Traits;
+namespace SuperUserDev\PaymentAPI\Traits;
 
 trait Setter
 {

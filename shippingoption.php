@@ -1,6 +1,6 @@
 <?php
 
-namespace shgysk8zer0\PaymentAPI;
+namespace SuperUserDev\PaymentAPI;
 
 class ShippingOption extends DisplayItem
 {

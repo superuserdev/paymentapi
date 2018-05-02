@@ -1,5 +1,5 @@
 <?php
-namespace shgysk8zer0\PaymentAPI;
+namespace SuperUserDev\PaymentAPI;
 
 spl_autoload_register('spl_autoload');
 set_include_path(dirname(__DIR__, 2));

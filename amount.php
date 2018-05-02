@@ -1,8 +1,8 @@
 <?php
 
-namespace shgysk8zer0\PaymentAPI;
+namespace SuperUserDev\PaymentAPI;
 
-use \shgysk8zer0\PaymentAPI\Traits\{Getter, Setter};
+use \SuperUserDev\PaymentAPI\Traits\{Getter, Setter};
 
 class Amount implements \JsonSerializable
 {
